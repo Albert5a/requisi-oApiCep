@@ -1,0 +1,3 @@
+O Backend vai contruir uma API e o Frontend vai consumir a API
+
+Desenvolvi um formulário de entraga fazendo integração com uma API pela primeira vez. Minha primeira requisição AJAX, no campo de CEP.
